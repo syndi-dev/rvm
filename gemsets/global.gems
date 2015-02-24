@@ -1,5 +1,1 @@
-gem-wrappers
-rubygems-bundler
-bundler
-rake
-rvm
+bundler 1.7.12
