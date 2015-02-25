@@ -33,6 +33,7 @@ ruby_1.8.5_rubygems_version=1.3.5
 ruby_1.8.6_rubygems_version=1.3.7
 ruby_1.8.7_rubygems_version=1.3.7
 ruby_1.9.1_rubygems_version=latest-1.8
+ruby_1.9.3_rubygems_version=1.8.25
 ruby_head_rubygems_version=head
 gem_gem-wrappers_version=>=1.2.7
 gem_gem-empty_version=>=1.0.0
